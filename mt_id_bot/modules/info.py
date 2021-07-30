@@ -32,7 +32,7 @@ async def info(mt_id_bot, update):
     if update.from_user.last_name:
         last_name = update.from_user.last_name
     else:
-        last_name = "𝑵𝒐𝒏𝒆😔"
+        last_name = "𝑵𝒐𝒏𝒆"
 
         text = f"""<b>🙋🏻‍♂️ 𝑭𝒊𝒓𝒔𝒕 𝑵𝒂𝒎𝒆 : <i>{update.from_user.first_name}</i>
 
