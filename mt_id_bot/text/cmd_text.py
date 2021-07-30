@@ -23,21 +23,19 @@ HELP_MSG = """
 
 # About Message (cb_button)
 ABOUT_MSG = """
-🤖 𝑴𝒚 𝑵𝒂𝒎𝒆 : 𝑰𝒅 𝑩𝒐𝒕
+🤖 𝑴𝒚 𝑵𝒂𝒎𝒆 : ID BOT
     
 📝 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://www.python.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a> 
 
 🧰 𝑭𝒓𝒂𝒎𝒆𝑾𝒐𝒓𝒌 : <a href='https://github.com/pyrogram/pyrogram'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a> 
 
-👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='t.me/mrk_yt'>@𝑷𝑹0𝑭𝑬𝑺𝑺0𝑹_99</a> 
+👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='t.me/Royalbotz'>ꫝꪖ𝘴ꫀꫀ𝘳᥇</a> 
 
-👨‍💻 𝑪𝒐 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/MR_JINN_OF_TG'>@𝑴𝑹_𝑱𝑰𝑵𝑵_𝑶𝑭_𝑻𝑮</a> 
+👥 𝑮𝒓𝒐𝒖𝒑 :   <a href='t.me/TgBotsChat'>𝘛𝘨 𝘣𝘰𝘵 𝘵𝘢𝘭𝘬</a> 
 
-👥 𝑮𝒓𝒐𝒖𝒑 :   <a href='t.me/Mo_tech_Group'>𝑴𝑻 𝑪𝒉𝒂𝒕</a> 
+📢 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='t.me/Royalbotz'>𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</a> 
 
-📢 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='t.me/Mo_Tech_YT'>𝑩𝒐𝑻 𝑼𝒑𝒅𝒂𝒕𝒆𝒔</a> 
-
-❣️ 𝒀𝒐𝒖𝑻𝒖𝒃𝒆 : <a href='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'>𝑺𝒖𝒃𝒔𝒄𝒓𝒊𝒃𝒆 𝑵𝒐𝒘</a> 
+🌐Website  : <a href='https://tgbots.co'>𝚟𝚒𝚜𝚒𝚝 𝚗𝚘𝚠</a> 
 """
 
 # Id Only Button
